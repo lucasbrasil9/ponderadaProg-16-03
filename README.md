@@ -22,3 +22,6 @@ Este projeto é uma aplicação web simples desenvolvida em PHP que se conecta a
 3. Faça o upload dos arquivos para o diretório `/var/www/html` da sua instância EC2.
 4. Acesse a aplicação através do navegador utilizando o endpoint público da sua EC2.
 5. Utilize o formulário para cadastrar produtos e visualize-os na listagem.
+
+## Vídeo apresentando a solução
+[Link do video](https://drive.google.com/file/d/1s96kSyIf8YCy_9VKVTH8gtBSm5qKmkXa/view?usp=drive_link)
